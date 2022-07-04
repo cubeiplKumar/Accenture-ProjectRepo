@@ -1,0 +1,7 @@
+Working with the Git and Github Workshop
+
+Git is a Distirbute Version Control System
+Appending new content into the existing file
+Version Control protects the sourcecode from both human
+erro and unintended consequences
+[D[D[D[D[D[D[D[D[D[D[D
