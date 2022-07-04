@@ -23,5 +23,12 @@ public class JdbcConnection {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
+		#feature301 changes by Akash on 04-July-2022 
+		// reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
     }
 }
