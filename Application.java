@@ -23,6 +23,15 @@ public class JdbcConnection {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
+
+		#Feature302 changes made by Shivani on 04-July-2022
+		public static void sampleMethod(int a, int b) throws ArithmeticException{
+        System.out.println("Hello, this is sample method");
+        int c = a/b; //  int c = 4/2 which gets calculated as 2 
+        System.out.println("c:"+c); // c: 2
+   }
+
+
 		#feature301 changes by Akash on 04-July-2022 
 		// reads all data from input.txt
       sourceFile.read(array);
